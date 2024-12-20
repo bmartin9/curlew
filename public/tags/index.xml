@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Curlew Cottage</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Curlew Cottage</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 26 Sep 2024 08:42:20 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/tags/testing/</link>
+      <pubDate>Thu, 26 Sep 2024 08:42:20 +1000</pubDate>
+      <guid>http://localhost:1313/tags/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bible</title>
+      <link>http://localhost:1313/tags/bible/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      <guid>http://localhost:1313/tags/bible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historical</title>
+      <link>http://localhost:1313/tags/historical/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      <guid>http://localhost:1313/tags/historical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripture</title>
+      <link>http://localhost:1313/tags/scripture/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate>
+      <guid>http://localhost:1313/tags/scripture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redemption</title>
+      <link>http://localhost:1313/tags/redemption/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
+      <guid>http://localhost:1313/tags/redemption/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theology</title>
+      <link>http://localhost:1313/tags/theology/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate>
+      <guid>http://localhost:1313/tags/theology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ministry</title>
+      <link>http://localhost:1313/tags/ministry/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      <guid>http://localhost:1313/tags/ministry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Two_column</title>
+      <link>http://localhost:1313/tags/two_column/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      <guid>http://localhost:1313/tags/two_column/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Templates</title>
+      <link>http://localhost:1313/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/templates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>http://localhost:1313/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/themes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
