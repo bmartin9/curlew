@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curlew Cottage Photos on Curlew Cottage</title>
+    <link>http://localhost:1313/curlewphotos/</link>
+    <description>Recent content in Curlew Cottage Photos on Curlew Cottage</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <managingEditor>test@example.com (Brendan Martin)</managingEditor>
+    <webMaster>test@example.com (Brendan Martin)</webMaster>
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/curlewphotos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exterior Photos</title>
+      <link>http://localhost:1313/curlewphotos/exterior/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate><author>test@example.com (Brendan Martin)</author>
+      <guid>http://localhost:1313/curlewphotos/exterior/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/exterior1.jpg&#34; alt=&#34;LivingRoom&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/exterior2.jpg&#34; alt=&#34;LivingRoom&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interior Photos</title>
+      <link>http://localhost:1313/curlewphotos/interior/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate><author>test@example.com (Brendan Martin)</author>
+      <guid>http://localhost:1313/curlewphotos/interior/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/livingroom.jpg&#34; alt=&#34;LivingRoom&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/img/hallway.jpg&#34; alt=&#34;Hallway&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

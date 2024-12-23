@@ -1,18 +1,25 @@
 ---
-title: "About"
-subtitle: "About Alpha-Church"
+title: "About Curlew Cottage"
 date: 2018-04-30T10:05:49+10:00
 images: ["img/freely-20445.jpg"]
 draft: false
 ---
 
-This is an example about page.
+Welcome to **Curlew Cottage**!
 
-With a bible quote for good measure!
+Curlew Cottage is a one-bedroom self-contained accommodation offering a peaceful retreat in a picturesque setting. Whether you are looking for a cozy getaway or a base for exploring the local area, Curlew Cottage provides the perfect place to relax and unwind.
 
-> “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son.”
+## Our Story
 
-(John 3:16–18 NIV)
+
+## The Location
+
+---
+
+If you'd like to know more about the surrounding area, feel free to visit our [Local Amenities](#) page or contact us for further information.
+
+We look forward to welcoming you to Curlew Cottage!
+
 
 And a map
 {{< loc.inline >}}{{ partial "map" . }}{{< /loc.inline >}}

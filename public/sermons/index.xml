@@ -9,12 +9,12 @@
     <language>en-uk</language>
     <lastBuildDate>Fri, 11 May 2018 09:06:46 &#43;1000</lastBuildDate>
     <copyright></copyright>
-    <itunes:author></itunes:author>
+    <itunes:author>Brendan Martin</itunes:author>
     <itunes:summary></itunes:summary>
     <description></description>
     <itunes:owner>
-      <itunes:name></itunes:name>
-      <itunes:email></itunes:email>
+      <itunes:name>Brendan Martin</itunes:name>
+      <itunes:email>test@example.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://localhost:1313/" />
     <itunes:category text="">
