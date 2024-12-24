@@ -18,5 +18,3 @@ Curlew Cottage is a one-bedroom self-contained accommodation offering a peaceful
 We look forward to welcoming you to Curlew Cottage!
 
 
-And a map
-{{< loc.inline >}}{{ partial "map" . }}{{< /loc.inline >}}
